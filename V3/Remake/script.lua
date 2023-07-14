@@ -13,8 +13,8 @@ local httpservice = game:GetService("HttpService")
 local mouse = game:GetService("Players").LocalPlayer:GetMouse()
 
 library.theme = {
-	fontsize = 13, 
-	titlesize = 13, 
+	fontsize = 14, 
+	titlesize = 1	5, 
 	font = Enum.Font.Code, 
 	background = "rbxassetid://0", 
 	tilesize = 60, 
