@@ -14,7 +14,7 @@ local mouse = game:GetService("Players").LocalPlayer:GetMouse()
 
 library.theme = {
 	fontsize = 14, 
-	titlesize = 15, 
+	titlesize = 16, 
 	font = Enum.Font.Code, 
 	background = "rbxassetid://0", 
 	tilesize = 60, 
